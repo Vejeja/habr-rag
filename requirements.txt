@@ -1,0 +1,13 @@
+aiogram==3.0.0b7
+python-dotenv
+zstandard
+jsonlines
+pymilvus
+pymilvus[model]
+datasets
+langchain
+langchain_core
+langchain_milvus
+langchain_groq
+langchain_huggingface
+sentence_transformers
